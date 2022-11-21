@@ -1,0 +1,1 @@
+Rename-computer –computername “computer” –newname “newcomputername” –domaincredential domain\user –force –restart
