@@ -1,3 +1,5 @@
+#This script was authored by a user on the PDQ forums# 
+
 ############Clean User Appdata Temp Files-Folder############
 del /q /s %userprofile%\appdata\local\temp\*
 for /d %%x in (%userprofile%\appdata\local\temp\*) do @rd /s /q "%%x"
