@@ -1,4 +1,7 @@
-﻿#----------------------Links-----------------------#
+#Author: JR#
+#Instructions: add a new $Filename entry for each desired lnk you wish to manipulate in this workflow.#
+
+#----------------------Links-----------------------#
 $Filename1 = "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Autodesk\Revit 2023.lnk"
 $Filename2 = "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RealVNC\VNC Viewer.lnk"
 $EveryLink = $Filename1,$Filename2
